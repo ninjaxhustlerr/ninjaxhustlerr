@@ -1,46 +1,57 @@
-# 🥷 Adil Siddiqui | Ninja.69
-### Founder & CEO @ [NinjaLabs](https://www.adilsiddiqui.xyz/) • AI Architect • Surgical Software Engineer
+<!-- Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Adil%20Siddiqui&fontSize=70&animation=fadeIn&fontColor=238636" />
+</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninjaxhustlerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaxhustlerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="150" />
+<!-- Typing Animation Bio -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+@+NinjaLabs;Surgical+Software+Engineer;AI+Architect+%7C+Next.js+%7C+Python;Shipping+Startups+in+10-20+Days" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### ⚡ The Ninja Mission
-I am an **AI Architect** and **Full-Stack Developer** specializing in "Surgical Engineering"—shipping complex, production-ready startups in record time. I focus on building digital assets that aren't just code, but high-performance engines for growth.
+### 🥷 The Ninja Mission
+> "Precision in Every Pixel. Speed in Every Line. Surgical Engineering at Scale."
 
-- 🚀 **Building**: [FundedAI](https://fundedai.com) (Agentic AI Market Analysis) & [HeightX](https://heightx.app) (Health Tech).
-- 🏢 **Founder**: [NinjaLabs](https://www.adilsiddiqui.xyz/) — Engineering agency for elite founders.
-- 🐍 **Stack**: Python Expert • TypeScript • Next.js • RAG & LLM Orchestration.
-- 📍 **Location**: Jamshedpur, India 🇮🇳
+I am an **AI Architect** focused on high-performance digital assets. As the founder of **NinjaLabs**, I've mastered the art of "Surgical Engineering"—taking complex startup concepts and transforming them into production-ready software with extreme velocity.
+
+- 🏢 **Operations**: Scaling [FundedAI](https://fundedai.com) & [HeightX](https://heightx.app).
+- 🛠️ **Expertise**: RAG Architectures, Agentic Workflows, & Full-Stack Systems.
+- 🐍 **Languages**: Python Expert, TypeScript Power User.
+- 📍 **Base**: Jamshedpur, India 🇮🇳
 
 ---
 
 ### 🛠️ The Ninja Toolbelt
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `TypeScript` `JavaScript` `SQL` |
-| **Frontend** | `Next.js` `React` `Tailwind CSS` `Framer Motion` |
-| **Backend** | `Supabase` `PostgreSQL` `Node.js` `FastAPI` |
-| **AI/ML** | `OpenAI` `LangChain` `Vector DBs` `RAG` |
-| **Tools** | `Vercel` `Docker` `Git` `Stripe` `Clerk` |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,supabase,postgres,fastapi,nodejs,docker,vercel,git,stripe,clerk" />
+</p>
 
 ---
 
-### 📂 Featured Systems
+### 📊 Tactical Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ninjaxhustlerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjaxhustlerr&theme=tokyonight&hide_border=true&background=0D1117" height="180" />
+</p>
 
-- **[FundedAI](https://fundedai.com)**: Agentic AI for sophisticated stock and crypto analysis.
-- **[HeightX](https://heightx.app)**: AI-driven precision health and wellness utility.
-- **[NinjaLabs](https://www.adilsiddiqui.xyz/)**: Delivering production-grade startups in 10-20 days.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaxhustlerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+</p>
+
+---
+
+### 🕹️ Contribution Galaxy
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninjaxhustlerr&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+</p>
 
 ---
 
 ### 🌐 Connect with the Ninja
-
-<p align="left">
+<p align="center">
   <a href="https://www.adilsiddiqui.xyz/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adil-siddiqui-227474355"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/ninjaxhustlerr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -51,5 +62,5 @@ I am an **AI Architect** and **Full-Stack Developer** specializing in "Surgical 
 ---
 
 <p align="center">
-  <i>"Speed is the only moat. Precision is the only standard."</i>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=80&section=footer&text=Speed%20Is%20The%20Only%20Moat&fontSize=25&fontColor=238636" />
 </p>
