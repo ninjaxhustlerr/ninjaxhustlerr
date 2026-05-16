@@ -40,9 +40,7 @@ I deliver **Surgical Software Engineering**—the intersection of extreme speed 
 <p align="center">
   <!-- Streak Stats (Working) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjaxhustlerr&theme=transparent&stroke=00D4FF&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="175" />
-  <!-- Mirror Stats (Alternative to broken service) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaxhustlerr&layout=compact&theme=transparent&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&hide_border=true" height="175" />
-</p>
+ 
 
 <p align="center">
   <!-- Activity Graph (Working) -->
