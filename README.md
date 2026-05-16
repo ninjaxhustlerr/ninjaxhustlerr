@@ -38,16 +38,14 @@ I deliver **Surgical Software Engineering**—the intersection of extreme speed 
 
 ### 📊 TACTICAL DATA
 <p align="center">
-  <!-- Streak Stats (Working) -->
+  <p align="center">
+  <!-- This Streak card will show your generated 365+ day streak as real data -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjaxhustlerr&theme=transparent&stroke=00D4FF&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="175" />
-  <!-- Mirror Stats (Alternative to broken service) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaxhustlerr&layout=compact&theme=transparent&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&hide_border=true" height="175" />
+  
+  <!-- This graph will turn your generated history into a professional surgical wave -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninjaxhustlerr&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" height="175" />
 </p>
 
-<p align="center">
-  <!-- Activity Graph (Working) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninjaxhustlerr&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
 
 ---
 
